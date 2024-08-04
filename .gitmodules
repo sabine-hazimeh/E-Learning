@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sabine-hazimeh/e-learning-system-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sabine-hazimeh/e-learning-system-front
