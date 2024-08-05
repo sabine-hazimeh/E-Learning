@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/sabine-hazimeh/e-learning-system-front
+[submodule "admin"]
+	path = admin
+	url = https://github.com/sabine-hazimeh/e-learning-admin
